@@ -20,5 +20,11 @@ git clone https://github.com/AmanuelIsaak/M295/
 
 And then finally
 ````bash
-npm run dev
+npm i &&  npm run dev
 ````
+
+If there are any issues regarding node or npm try some of this commands
+````bash
+npx vite
+npm audit fix
+`````
